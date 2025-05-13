@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'Nombre del recurso educativo',
-    descripcionCurso: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    componenteFormativo: 'Evaluación y generación de informes financieros',
+    descripcionCurso:
+      'Este componente desarrolla competencias para analizar, estructurar y presentar informes financieros, integrando indicadores de gestión. El aprendiz aprenderá a interpretar resultados, generar reportes técnicos y comunicar hallazgos según normativas y públicos específicos, fortaleciendo la toma de decisiones estratégicas dentro de la organización.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -31,27 +32,38 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Evaluación financiera',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo_de_segundo_nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Indicadores de gestión y los KPI financieros',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Indicadores de gestión',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Indicadores financieros',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Análisis integral de la situación financiera',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Elaboración de informes financieros',
         desarrolloContenidos: true,
       },
     ],
@@ -102,28 +114,81 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      link: 'Link_complementario',
+      tema: '1. Evaluación financiera',
+      referencia:
+        'Nava Rosillón, M. A. (2009). Análisis financiero: una herramienta clave para una gestión financiera eficiente. <em>Revista Venezolana de Gerencia</em>, 14, 48, 606-628.',
+      tipo: 'Artículo ',
+      link: 'https://www.redalyc.org/pdf/290/29012059009.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '4. Elaboración de informes financieros',
+      referencia:
+        'Microsoft. (2023). <em>Introducing Microsoft 365 Copilot with Outlook, PowerPoint, Excel, and OneNote</em>. [Video]. YouTube. ',
+      tipo: 'Video ',
+      link: 'https://www.youtube.com/watch?v=ebls5x-gb0s',
     },
   ],
   glosario: [
     {
-      termino: 'Termino_glosario',
-      significado: 'Significado_glosario',
+      termino: 'Análisis comparativo',
+      significado:
+        'método de evaluación que consiste en comparar resultados financieros entre periodos, frente al presupuesto o frente a otras empresas del sector',
+    },
+    {
+      termino: 'Indicador financiero',
+      significado:
+        'relación numérica derivada de los estados financieros que permite analizar aspectos clave como liquidez, rentabilidad, endeudamiento y eficiencia operativa.',
+    },
+    {
+      termino: 'Indicador de gestión',
+      significado:
+        'herramienta que mide el desempeño de los procesos internos de la organización, en términos de eficiencia, eficacia, productividad y calidad.',
+    },
+    {
+      termino: 'Informe financiero',
+      significado:
+        'documento técnico que presenta de forma estructurada y comprensible los resultados del análisis financiero de una organización.',
+    },
+    {
+      termino: 'KPI (Key Performance Indicator)',
+      significado:
+        'indicador clave de desempeño que refleja el grado de cumplimiento de los objetivos estratégicos y operativos de una empresa.',
+    },
+    {
+      termino: 'Normatividad contable',
+      significado:
+        'conjunto de reglas internas o externas que regulan la elaboración, presentación y validación de los informes financieros en una organización.',
+    },
+    {
+      termino: 'Valoración cruzada',
+      significado:
+        'técnica que relaciona indicadores financieros con indicadores de gestión para identificar causas y efectos en el desempeño empresarial.',
+    },
+    {
+      termino: 'Visualización de datos',
+      significado:
+        'representación gráfica o tabular de información financiera que facilita su comprensión, análisis y presentación ante diferentes públicos.',
     },
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia:
+        'Coral Delgado, L. C. & Gudiño Dávila, E. L. (2014). Contabilidad universitaria. (7ª Edición). Bogotá, Colombia: Editorial. Mc Graw Hill.',
+    },
+    {
+      referencia:
+        'Díaz, H. (2006). Contabilidad general. (2ª Edición). México DF, México: Editorial. Pearson Prentice Hall.',
+    },
+    {
+      referencia:
+        'García, O. L. (2009). Administración financiera: Fundamentos y aplicaciones. (4ª Edición). Bogotá, Colombia: Editorial. Desconocida.',
+    },
+    {
+      referencia: 'Microsoft. (s.f.). Funciones financieras de Excel.',
+    },
+    {
+      referencia:
+        'Ortiz Anaya, H. (2011). Análisis financiero aplicado y principios de administración financiera. (14ª Edición). Bogotá, Colombia: Editorial. Universidad Externado de Colombia.',
     },
   ],
   creditos: [
@@ -147,14 +212,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Juan Carlos Camargo Solano',
-          cargo: 'Experta temática',
-          centro:
-            'Centro Nacional de Hotelería, Turismo y Alimentos - Regional Distrito Capital',
+          nombre: 'Gustavo Ernesto Mariño Puentes',
+          cargo: 'Experto temática',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Viviana Esperanza Herrera Quiñonez',
-          cargo: 'Evaluadora instruccional ',
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Evaluador instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -168,7 +232,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Juan Daniel Polanco Muñoz',
+          nombre: 'Lina Marcela Pérez',
           cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
