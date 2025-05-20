@@ -86,13 +86,13 @@
             .col-lg-8
               ul.lista-ul--color
                 li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-arrow-alt-circle-right.tcp
+                  i.fas.fa-check.tcp
                   | Fortalece el liderazgo interno.
                 li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-arrow-alt-circle-right.tcp
+                  i.fas.fa-check.tcp
                   | Promueve la transparencia organizacional.
                 li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-arrow-alt-circle-right.tcp
+                  i.fas.fa-check.tcp
                   | Consolida una cultura orientada a la excelencia y a la mejora continua.
 
     .mb-4.d-flex(data-aos="fade-right")
@@ -170,13 +170,13 @@
             .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
               ul.lista-ul--color
                 li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-arrow-alt-circle-right.tcp
+                  i.fas.fa-check.tcp
                   | Permiten establecer comparaciones entre periodos, sedes, equipos o incluso con referentes del sector, lo que enriquece el análisis del desempeño. 
                 li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-arrow-alt-circle-right.tcp
+                  i.fas.fa-check.tcp
                   | Esta visión comparativa facilita la toma de decisiones estratégicas, como reasignación de recursos, cambios en procesos, ajustes en el modelo de negocio o rediseño de objetivos. 
                 li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-arrow-alt-circle-right.tcp
+                  i.fas.fa-check.tcp
                   | De esta manera, los indicadores se convierten en una guía para mejorar la competitividad y sostenibilidad de la empresa.
             .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
               img(src='@/assets/curso/tema2/img14.svg' alt="Imagen decorativa")
@@ -312,7 +312,7 @@
           p Además, es fundamental complementar el análisis de los indicadores con una evaluación cualitativa de la gestión empresarial. Factores como la calidad del equipo gerencial, la estrategia competitiva, el clima económico y la evolución del mercado también influyen en la interpretación de los resultados financieros. Por eso, el análisis de indicadores debe integrarse dentro de un enfoque más amplio de evaluación organizacional.
           p.mb-0 En resumen, clasificar y aplicar correctamente los indicadores financieros permite a las empresas tener una visión clara y segmentada de su situación. Esta información es indispensable para planear, controlar y tomar decisiones estratégicas que apunten a la sostenibilidad y crecimiento del negocio. Un análisis riguroso y constante de estas métricas se traduce en una gestión financiera proactiva, orientada a generar valor y mitigar riesgos.
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema2/img22.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema2/img22.png' alt="Imagen decorativa")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: #E5E9FE; border-radius: 5px;")
@@ -350,8 +350,8 @@
               figure
                 img(src="@/assets/curso/tema2/img25.svg", alt="Imagen decorativa").img100
             .col
-              .h4 Benchmarking
-              p.mb-0 También se puede realizar un benchmarking, comparando los indicadores con los de empresas similares del mismo sector, lo que permite establecer parámetros de desempeño competitivo.
+              .h4 #[em Benchmarking]
+              p.mb-0 También se puede realizar un #[em benchmarking], comparando los indicadores con los de empresas similares del mismo sector, lo que permite establecer parámetros de desempeño competitivo.
         .crd.crd--avatarHorizontal.crd--last.py-4
           .row.align-items-center
             .col-auto

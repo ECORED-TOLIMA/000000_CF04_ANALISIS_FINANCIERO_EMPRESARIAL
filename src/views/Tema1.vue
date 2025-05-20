@@ -60,16 +60,16 @@
             .col-lg-6
                ul.lista-ul--color
                 li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-arrow-alt-circle-right.tcp
+                  i.fas.fa-check.tcp
                   | La eficiencia en el uso de recursos.
                 li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-arrow-alt-circle-right.tcp
+                  i.fas.fa-check.tcp
                   | La eficacia en el cumplimiento de objetivos.
                 li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-arrow-alt-circle-right.tcp
+                  i.fas.fa-check.tcp
                   | La productividad de las operaciones.
                 li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-arrow-alt-circle-right.tcp
+                  i.fas.fa-check.tcp
                   | La calidad de los productos o servicios ofrecidos.
     
     p Su medición sistemática, permite identificar desviaciones respecto a las metas establecidas, promover la mejora continua y fortalecer los sistemas de control interno. El uso de indicadores de gestión bien diseñados, es indispensable para garantizar que las estrategias corporativas se traduzcan en resultados operativos concretos y medibles.

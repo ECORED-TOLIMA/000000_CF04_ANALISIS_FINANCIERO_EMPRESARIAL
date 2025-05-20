@@ -23,7 +23,7 @@
             p.mb-0 Como liquidez, rentabilidad y endeudamiento.
           .tarjeta.BG01.p-3(x="78.5%" y="23%" numero="+")
             p.mb-0 Como eficiencia, productividad y calidad.
-      .col-10.d-lg-none.d-flex.mb-5
+      .col.d-lg-none.d-flex.mb-5
         figure
           img(src='@/assets/curso/tema3/img03.svg' alt="Imagen decorativa")
 
@@ -50,13 +50,13 @@
           p Por ejemplo:
           ul.lista-ul--color
             li(style="margin-bottom: 2px")
-              i.fas.fa-arrow-alt-circle-right.tcp
+              i.fas.fa-check.tcp
               | Un análisis financiero puede mostrar una disminución en el margen de utilidad, lo que inicialmente parecería un problema puramente contable.
             li(style="margin-bottom: 2px")
-              i.fas.fa-arrow-alt-circle-right.tcp
+              i.fas.fa-check.tcp
               | Sin embargo, al cruzar esta información con indicadores de gestión, podría evidenciarse que esta disminución está relacionada con un aumento en los tiempos de producción o una mayor tasa de devoluciones por defectos.
             li(style="margin-bottom: 2px")
-              i.fas.fa-arrow-alt-circle-right.tcp
+              i.fas.fa-check.tcp
               | Esto demuestra que un problema de rentabilidad puede tener su origen en la eficiencia operativa o la calidad del producto.
 
     p.mb-5 Este tipo de valoración cruzada, también permite validar la coherencia entre lo que muestran los estados financieros y lo que realmente está sucediendo en la operación diaria. Si un indicador de liquidez muestra estabilidad, pero los indicadores de gestión revelan atrasos en procesos o aumento de quejas de clientes, podría existir un riesgo latente que aún no se refleja en las cifras financieras. Por eso, el cruce de indicadores actúa como una alerta temprana ante desequilibrios estructurales.
@@ -81,14 +81,14 @@
             .col-lg-8
               ul.lista-ul--color
                 li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-arrow-alt-circle-right.tcp
+                  i.fas.fa-check.tcp
                   | Promueve una visión sistémica de la organización.
                 li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-arrow-alt-circle-right.tcp
-                  | fomenta la cultura de la medición.
+                  i.fas.fa-check.tcp
+                  | Fomenta la cultura de la medición.
                 li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-arrow-alt-circle-right.tcp
-                  | fortalece la capacidad analítica de los equipos responsables del control financiero y operativo.
+                  i.fas.fa-check.tcp
+                  | Fortalece la capacidad analítica de los equipos responsables del control financiero y operativo.
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: #E5E9FE; border-radius: 5px;")

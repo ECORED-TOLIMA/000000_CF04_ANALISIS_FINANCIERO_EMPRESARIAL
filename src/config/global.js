@@ -8,11 +8,11 @@ export default {
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
       },
     ],
   },
@@ -132,7 +132,7 @@ export default {
     {
       termino: 'Análisis comparativo',
       significado:
-        'método de evaluación que consiste en comparar resultados financieros entre periodos, frente al presupuesto o frente a otras empresas del sector',
+        'método de evaluación que consiste en comparar resultados financieros entre periodos, frente al presupuesto o frente a otras empresas del sector.',
     },
     {
       termino: 'Indicador financiero',
@@ -213,7 +213,7 @@ export default {
       autores: [
         {
           nombre: 'Gustavo Ernesto Mariño Puentes',
-          cargo: 'Experto temática',
+          cargo: 'Experto temático',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
@@ -238,7 +238,7 @@ export default {
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador <em>Fullstack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {

@@ -20,25 +20,25 @@
     p.mb-5 La redacción técnica de un informe financiero exige rigor y objetividad. Además, debe tener en cuenta lo siguiente: 
 
     .tarjeta--container.row.mb-5
-      .col-md.tarjeta.BG01.p-5(data-aos="fade-right")
+      .col-lg-3.col-sm-6.tarjeta.BG01.p-5(data-aos="fade-right")
         .row.justify-content-center.mb-4
           .col-lg-4.col-6
             img(src='@/assets/curso/tema4/img02.svg', alt="Imagen decorativa")
         h4.text-center Precisión
         p.mb-0 Los términos utilizados deben ser precisos, evitando ambigüedades o interpretaciones subjetivas. 
-      .col-md.tarjeta.BG05.p-5(data-aos="flip-right")
+      .col-lg-3.col-sm-6.tarjeta.BG05.p-5(data-aos="flip-right")
         .row.justify-content-center.mb-4
           .col-lg-4.col-6
             img(src='@/assets/curso/tema4/img03.svg', alt="Imagen decorativa")
         h4.text-center Público
         p.mb-0 Es necesario explicar los indicadores utilizados, las fórmulas aplicadas y los criterios de análisis, especialmente si el informe será leído por personas que no son expertas en finanzas.
-      .col-md.tarjeta.BG01.p-5(data-aos="flip-left")
+      .col-lg-3.col-sm-6.tarjeta.BG01.p-5(data-aos="flip-left")
         .row.justify-content-center.mb-4
           .col-lg-4.col-6
             img(src='@/assets/curso/tema4/img04.svg', alt="Imagen decorativa")
         h4.text-center Resultados
         p.mb-0 Esta transparencia mejora la utilidad del informe y fortalece la confianza en los resultados presentados.
-      .col-md.tarjeta.BG05.p-5(data-aos="fade-left")
+      .col-lg-3.col-sm-6.tarjeta.BG05.p-5(data-aos="fade-left")
         .row.justify-content-center.mb-4
           .col-lg-4.col-6
             img(src='@/assets/curso/tema4/img05.svg', alt="Imagen decorativa")
@@ -116,7 +116,7 @@
             p.mb-0 ¿Cuáles implicaciones tiene?
           .tarjeta.BG01.p-3(x="92.5%" y="33%" numero="+")
             p.mb-0 ¿Cómo se compara con ejercicios anteriores o con el promedio del sector?
-      .col-10.d-lg-none.d-flex.mb-5
+      .col.d-lg-none.d-flex.mb-5
         figure
           img(src='@/assets/curso/tema4/img13.svg' alt="Imagen decorativa")
 
@@ -137,18 +137,18 @@
 
     .tarjeta.BGIMG01.p-lg-5.p-4.mb-5
       SlyderA(tipo="b" data-aos="zoom-in")
-        .row.justify-content-center
-          .col-lg-8.order-lg-1.order-2
+        .row.justify-content-center.align-items-center
+          .col-lg-7.order-lg-1.order-2
             .h4 Normas internas
             p.mb-0 Establecen los lineamientos propios de cada organización en cuanto a la forma, periodicidad, nivel de detalle y responsables de la elaboración de informes financieros. Estas directrices buscan estandarizar los procesos contables y asegurar que todos los reportes respondan a los mismos criterios, lo cual facilita la consolidación de la información y la toma de decisiones a nivel directivo. Cumplir con estas políticas refuerza el control interno y mejora la eficiencia operativa.
-          .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
+          .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema4/img14.jpg' alt="Imagen decorativa")
-        .row.justify-content-center
-          .col-lg-8.order-lg-1.order-2
+        .row.justify-content-center.align-items-center
+          .col-lg-7.order-lg-1.order-2
             .h4 Normas externas
             p Son aquellas impuestas por organismos nacionales o internacionales, como las NIIF, la Superintendencia de Sociedades, la DIAN o entes financieros. Estas regulaciones establecen criterios específicos sobre el reconocimiento, medición, presentación y revelación de la información financiera. Adaptar los informes a estas normas, es obligatorio en muchos casos y garantiza la confiabilidad y uniformidad de los estados financieros frente a terceros.
             p.mb-0 Además, ajustarse a normativas externas permite que los informes sean comparables con los de otras empresas del mismo sector, lo cual es fundamental para procesos de evaluación financiera, acceso a financiación, participación en licitaciones o atracción de inversionistas. También es importante cuando se trata de presentar informes a entidades públicas, cooperantes internacionales o en procesos de auditoría.
-          .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
+          .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema4/img15.jpg' alt="Imagen decorativa")
     
     p.mb-5 La adaptación a normativas internas y externas no es una tarea opcional, sino una exigencia esencial en la elaboración de informes financieros. Cumplir con estos marcos normativos asegura la coherencia, legalidad y utilidad de los reportes, refuerza la confianza de los usuarios de la información y contribuye a una gestión financiera más ordenada, transparente y alineada con los estándares del entorno empresarial.
