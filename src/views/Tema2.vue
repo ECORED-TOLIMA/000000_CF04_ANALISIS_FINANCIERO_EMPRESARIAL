@@ -16,184 +16,184 @@
         .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
           img(src='@/assets/curso/tema2/img01.png' alt="Imagen decorativa")
 
-    p Por tanto, el uso de indicadores de gestión y KPI financieros, no solo contribuye al análisis de resultados pasados, sino que también permite proyectar escenarios futuros, establecer alertas tempranas y definir metas alcanzables. Como lo señala Ortiz (2011), su verdadero valor está en la capacidad que tienen para guiar decisiones informadas, basadas en evidencia y alineadas con la estrategia organizacional. En este contexto, su integración en los informes financieros resulta indispensable para una evaluación profunda del desempeño empresarial.
+    p.mb-0 Por tanto, el uso de indicadores de gestión y KPI financieros, no solo contribuye al análisis de resultados pasados, sino que también permite proyectar escenarios futuros, establecer alertas tempranas y definir metas alcanzables. Como lo señala Ortiz (2011), su verdadero valor está en la capacidad que tienen para guiar decisiones informadas, basadas en evidencia y alineadas con la estrategia organizacional. En este contexto, su integración en los informes financieros resulta indispensable para una evaluación profunda del desempeño empresarial.
 
     separador
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.1 Indicadores de gestión
     
-    p.mb-5 Son herramientas fundamentales, tanto cuantitativas como cualitativas, que permiten medir el desempeño de una organización en relación con sus objetivos estratégicos, tácticos y operativos. A través de estos indicadores, las empresas pueden monitorear y evaluar la eficacia de sus procesos internos, la eficiencia en la utilización de los recursos y la calidad de los resultados obtenidos. Los indicadores actúan como señales de alerta que orientan sobre el cumplimiento de las metas y permiten identificar de manera oportuna las desviaciones que pueden comprometer el logro de los objetivos organizacionales.
-
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema2/img02.jpg')})`}" data-aos="fade-right"
-      )
-      .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 El propósito principal de los indicadores de gestión, es facilitar la toma de decisiones informadas, basadas en datos objetivos y actualizados, en lugar de percepciones subjetivas. Un buen sistema de indicadores, permite a los directivos y responsables de áreas, realizar un seguimiento permanente de los avances, detectar oportunidades de mejora, implementar acciones correctivas de manera anticipada y, en general, fortalecer la gestión organizacional. Asimismo, su aplicación contribuye a fomentar una cultura de resultados dentro de la organización, donde el desempeño de cada área y de cada colaborador se mide de acuerdo con parámetros claros y consensuados.
+    //- #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+    //-   h2 2.1 Indicadores de gestión
     
-    p.mb-5 Para que los indicadores de gestión sean efectivos, deben cumplir con ciertas características básicas: 
+    //- p.mb-5 Son herramientas fundamentales, tanto cuantitativas como cualitativas, que permiten medir el desempeño de una organización en relación con sus objetivos estratégicos, tácticos y operativos. A través de estos indicadores, las empresas pueden monitorear y evaluar la eficacia de sus procesos internos, la eficiencia en la utilización de los recursos y la calidad de los resultados obtenidos. Los indicadores actúan como señales de alerta que orientan sobre el cumplimiento de las metas y permiten identificar de manera oportuna las desviaciones que pueden comprometer el logro de los objetivos organizacionales.
 
-    .tarjeta--container.row.mb-5
-      .col-md.tarjeta.color-primario.p-5(data-aos="fade-right")
-        .row.justify-content-center.mb-4
-          .col-lg-4.col-6
-            img(src='@/assets/curso/tema2/img03.svg', alt="Imagen decorativa")
-        .px-lg-5.px-4
-          h4.text-center Ser específicos
-          p.mb-0 Deben medir un aspecto claramente definido y relevante para la operación. 
-      .col-md.tarjeta.color-secundario.p-5(data-aos="fade-left")
-        .row.justify-content-center.mb-4
-          .col-lg-4.col-6
-            img(src='@/assets/curso/tema2/img04.svg', alt="Imagen decorativa")
-        .px-lg-5.px-4
-          h4.text-center Ser medibles 
-          p.mb-0 De manera objetiva y alcanzables dentro de los recursos y capacidades de la organización, relevantes en el contexto de los objetivos estratégicos y con un marco temporal definido que permita evaluar la evolución en el tiempo. 
-
-    p Esta estructura garantiza que los indicadores no solo reflejen la situación actual, sino que también sirvan como base para la planificación futura y la mejora continua.
-    p.mb-5 El diseño adecuado de los indicadores, debe abarcar todas las áreas críticas de la organización: producción, ventas, atención al cliente, gestión del talento humano, finanzas, entre otras. Por ejemplo, en las siguientes áreas puede realizarse lo siguiente: 
-
-    .row.justify-content-center.mb-5
-      .col-lg-6.mb-lg-0.mb-4
-        .tarjeta-avatar-b.h-100
-          .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema2/img05.svg' alt="Imagen decorativa")
-          .tarjeta.BG01
-            .p-4
-              h4 Comercial
-              p.mb-0 El porcentaje de cumplimiento de las metas de ventas.
-      .col-lg-6.mb-lg-0.mb-4
-        .tarjeta-avatar-b.h-100
-          .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema2/img06.svg' alt="Imagen decorativa")
-          .tarjeta.BG01
-            .p-4
-              h4 Producción
-              p.mb-0 El nivel de eficiencia en el uso de insumos.
-
-    .row.justify-content-center.mb-5
-      .col-lg-10
-        .cajon.color-secundario.p-4
-          p.mb-0 A través del monitoreo sistemático de estos indicadores, es posible identificar desviaciones respecto a los estándares esperados, corregir fallos en los procesos y ajustar planes de acción en tiempo real, optimizando así el desempeño global de la organización.
-
-    p.mb-5 Los indicadores de gestión, cumplen un rol esencial en la rendición de cuentas, al proporcionar información objetiva y verificable sobre los resultados alcanzados en comparación con los planes establecidos. Además, funcionan como herramientas de motivación y reconocimiento para los equipos de trabajo, al visibilizar los logros individuales y colectivos, reforzando el sentido de pertenencia y compromiso hacia la organización. Una gestión basada en indicadores, no solo mejora los resultados operativos, sino que también: 
-
-    .row.justify-content-center.mb-5
-      .col-lg-10
-        .BG01.p-4
-          .row.justify-content-center.align-items-center
-            .col-lg-4.col-6.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img07.svg' alt="Imagen decorativa")
-            .col-lg-8
-              ul.lista-ul--color
-                li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-check.tcp
-                  | Fortalece el liderazgo interno.
-                li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-check.tcp
-                  | Promueve la transparencia organizacional.
-                li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-check.tcp
-                  | Consolida una cultura orientada a la excelencia y a la mejora continua.
-
-    .mb-4.d-flex(data-aos="fade-right")
-      .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: #E5E9FE; border-radius: 5px;")
-        img(src='@/assets/curso/temas/img01.svg' style="max-width: 45px; margin-left: -16px;")
-        h3.col.ps-3.mb-0 Tipos y clasificación
+    //- .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+    //-   .bloque-texto-g__img(
+    //-     :style="{'background-image': `url(${require('@/assets/curso/tema2/img02.jpg')})`}" data-aos="fade-right"
+    //-   )
+    //-   .bloque-texto-g__texto.p-4(data-aos="fade-left")
+    //-     p.mb-0 El propósito principal de los indicadores de gestión, es facilitar la toma de decisiones informadas, basadas en datos objetivos y actualizados, en lugar de percepciones subjetivas. Un buen sistema de indicadores, permite a los directivos y responsables de áreas, realizar un seguimiento permanente de los avances, detectar oportunidades de mejora, implementar acciones correctivas de manera anticipada y, en general, fortalecer la gestión organizacional. Asimismo, su aplicación contribuye a fomentar una cultura de resultados dentro de la organización, donde el desempeño de cada área y de cada colaborador se mide de acuerdo con parámetros claros y consensuados.
     
-    p.mb-5 Los indicadores de gestión se clasifican según el tipo de resultado que permiten evaluar dentro de los procesos organizacionales. Entre los más utilizados se encuentran los indicadores de eficiencia, eficacia, productividad y calidad. Esta clasificación permite abordar el análisis desde distintas perspectivas, lo que facilita una visión integral del desempeño empresarial y una toma de decisiones más acertada. A continuación, se relaciona lo que tiene que ver con cada uno:
+    //- p.mb-5 Para que los indicadores de gestión sean efectivos, deben cumplir con ciertas características básicas: 
 
-    .row.justify-content-center.mb-5
-      .col-lg-10
-        LineaTiempoD.color-acento-botones
-          div(numero="1" titulo="Indicadores de eficiencia") 
-            p Miden la relación entre los recursos utilizados y los resultados obtenidos. Su objetivo es evaluar si la organización está haciendo un uso adecuado de sus recursos como tiempo, dinero, personal o materiales para generar un determinado resultado. 
-            .tarjeta.tarjeta--blanca.p-4.mb-2
-              p Por ejemplo, un indicador de eficiencia podría ser el costo por unidad producida o el tiempo promedio de atención al cliente.
-              p.mb-0 Un buen nivel de eficiencia implica lograr los resultados con el menor consumo posible de recursos.
-            imagen
-              img(src='@/assets/curso/tema2/img08.jpg' alt="Imagen decorativa")
-          div(numero="2" titulo="Indicadores de eficacia") 
-            p Se enfocan en el grado de cumplimiento de los objetivos propuestos. A diferencia de la eficiencia, no consideran el uso de recursos, sino si se logró o no lo que se esperaba. 
-            .tarjeta.tarjeta--blanca.p-4.mb-2
-              p Un ejemplo de este tipo de indicador, sería el porcentaje de cumplimiento del plan de ventas o el número de proyectos finalizados dentro del plazo estipulado. 
-              p.mb-0 La eficacia apunta directamente a los resultados, sin importar cómo se alcanzaron.
-            imagen
-              img(src='@/assets/curso/tema2/img09.jpg' alt="Imagen decorativa")
-          div(numero="3" titulo="Indicadores de productividad") 
-            p Combinan elementos de eficiencia y eficacia, al medir la cantidad de productos o servicios generados en relación con los recursos utilizados.
-            .tarjeta.tarjeta--blanca.p-4.mb-2
-              p Por ejemplo, la cantidad de unidades producidas en una planta, con relación a las horas-hombre.
-              p.mb-0 Son muy útiles para evaluar el rendimiento de áreas operativas. 
-            imagen
-              img(src='@/assets/curso/tema2/img10.jpg' alt="Imagen decorativa")
-          div(numero="4" titulo="Indicadores de calidad") 
-            p Se centran en la satisfacción del cliente y en el cumplimiento de estándares establecidos. 
-            .tarjeta.tarjeta--blanca.p-4.mb-2
-              p Un ejemplo de ello, podría ser la cantidad de productos fabricados, de los cuales alguna cierta cantidad presentaría defectos.
-              p.mb-0 Evalúan aspectos como el número de errores, devoluciones o quejas y son fundamentales para garantizar procesos sostenibles y alineados con las expectativas del mercado.
-            imagen
-              img(src='@/assets/curso/tema2/img11.jpg' alt="Imagen decorativa")
+    //- .tarjeta--container.row.mb-5
+    //-   .col-md.tarjeta.color-primario.p-5(data-aos="fade-right")
+    //-     .row.justify-content-center.mb-4
+    //-       .col-lg-4.col-6
+    //-         img(src='@/assets/curso/tema2/img03.svg', alt="Imagen decorativa")
+    //-     .px-lg-5.px-4
+    //-       h4.text-center Ser específicos
+    //-       p.mb-0 Deben medir un aspecto claramente definido y relevante para la operación. 
+    //-   .col-md.tarjeta.color-secundario.p-5(data-aos="fade-left")
+    //-     .row.justify-content-center.mb-4
+    //-       .col-lg-4.col-6
+    //-         img(src='@/assets/curso/tema2/img04.svg', alt="Imagen decorativa")
+    //-     .px-lg-5.px-4
+    //-       h4.text-center Ser medibles 
+    //-       p.mb-0 De manera objetiva y alcanzables dentro de los recursos y capacidades de la organización, relevantes en el contexto de los objetivos estratégicos y con un marco temporal definido que permita evaluar la evolución en el tiempo. 
+
+    //- p Esta estructura garantiza que los indicadores no solo reflejen la situación actual, sino que también sirvan como base para la planificación futura y la mejora continua.
+    //- p.mb-5 El diseño adecuado de los indicadores, debe abarcar todas las áreas críticas de la organización: producción, ventas, atención al cliente, gestión del talento humano, finanzas, entre otras. Por ejemplo, en las siguientes áreas puede realizarse lo siguiente: 
+
+    //- .row.justify-content-center.mb-5
+    //-   .col-lg-6.mb-lg-0.mb-4
+    //-     .tarjeta-avatar-b.h-100
+    //-       .tarjeta-avatar-b__img
+    //-         img(src='@/assets/curso/tema2/img05.svg' alt="Imagen decorativa")
+    //-       .tarjeta.BG01
+    //-         .p-4
+    //-           h4 Comercial
+    //-           p.mb-0 El porcentaje de cumplimiento de las metas de ventas.
+    //-   .col-lg-6.mb-lg-0.mb-4
+    //-     .tarjeta-avatar-b.h-100
+    //-       .tarjeta-avatar-b__img
+    //-         img(src='@/assets/curso/tema2/img06.svg' alt="Imagen decorativa")
+    //-       .tarjeta.BG01
+    //-         .p-4
+    //-           h4 Producción
+    //-           p.mb-0 El nivel de eficiencia en el uso de insumos.
+
+    //- .row.justify-content-center.mb-5
+    //-   .col-lg-10
+    //-     .cajon.color-secundario.p-4
+    //-       p.mb-0 A través del monitoreo sistemático de estos indicadores, es posible identificar desviaciones respecto a los estándares esperados, corregir fallos en los procesos y ajustar planes de acción en tiempo real, optimizando así el desempeño global de la organización.
+
+    //- p.mb-5 Los indicadores de gestión, cumplen un rol esencial en la rendición de cuentas, al proporcionar información objetiva y verificable sobre los resultados alcanzados en comparación con los planes establecidos. Además, funcionan como herramientas de motivación y reconocimiento para los equipos de trabajo, al visibilizar los logros individuales y colectivos, reforzando el sentido de pertenencia y compromiso hacia la organización. Una gestión basada en indicadores, no solo mejora los resultados operativos, sino que también: 
+
+    //- .row.justify-content-center.mb-5
+    //-   .col-lg-10
+    //-     .BG01.p-4
+    //-       .row.justify-content-center.align-items-center
+    //-         .col-lg-4.col-6.mb-lg-0.mb-4
+    //-           img(src='@/assets/curso/tema2/img07.svg' alt="Imagen decorativa")
+    //-         .col-lg-8
+    //-           ul.lista-ul--color
+    //-             li(style="margin-bottom: 2px" data-aos="fade-right")
+    //-               i.fas.fa-check.tcp
+    //-               | Fortalece el liderazgo interno.
+    //-             li(style="margin-bottom: 2px" data-aos="fade-right")
+    //-               i.fas.fa-check.tcp
+    //-               | Promueve la transparencia organizacional.
+    //-             li(style="margin-bottom: 2px" data-aos="fade-right")
+    //-               i.fas.fa-check.tcp
+    //-               | Consolida una cultura orientada a la excelencia y a la mejora continua.
+
+    //- .mb-4.d-flex(data-aos="fade-right")
+    //-   .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: #E5E9FE; border-radius: 5px;")
+    //-     img(src='@/assets/curso/temas/img01.svg' style="max-width: 45px; margin-left: -16px;")
+    //-     h3.col.ps-3.mb-0 Tipos y clasificación
+    
+    //- p.mb-5 Los indicadores de gestión se clasifican según el tipo de resultado que permiten evaluar dentro de los procesos organizacionales. Entre los más utilizados se encuentran los indicadores de eficiencia, eficacia, productividad y calidad. Esta clasificación permite abordar el análisis desde distintas perspectivas, lo que facilita una visión integral del desempeño empresarial y una toma de decisiones más acertada. A continuación, se relaciona lo que tiene que ver con cada uno:
+
+    //- .row.justify-content-center.mb-5
+    //-   .col-lg-10
+    //-     LineaTiempoD.color-acento-botones
+    //-       div(numero="1" titulo="Indicadores de eficiencia") 
+    //-         p Miden la relación entre los recursos utilizados y los resultados obtenidos. Su objetivo es evaluar si la organización está haciendo un uso adecuado de sus recursos como tiempo, dinero, personal o materiales para generar un determinado resultado. 
+    //-         .tarjeta.tarjeta--blanca.p-4.mb-2
+    //-           p Por ejemplo, un indicador de eficiencia podría ser el costo por unidad producida o el tiempo promedio de atención al cliente.
+    //-           p.mb-0 Un buen nivel de eficiencia implica lograr los resultados con el menor consumo posible de recursos.
+    //-         imagen
+    //-           img(src='@/assets/curso/tema2/img08.jpg' alt="Imagen decorativa")
+    //-       div(numero="2" titulo="Indicadores de eficacia") 
+    //-         p Se enfocan en el grado de cumplimiento de los objetivos propuestos. A diferencia de la eficiencia, no consideran el uso de recursos, sino si se logró o no lo que se esperaba. 
+    //-         .tarjeta.tarjeta--blanca.p-4.mb-2
+    //-           p Un ejemplo de este tipo de indicador, sería el porcentaje de cumplimiento del plan de ventas o el número de proyectos finalizados dentro del plazo estipulado. 
+    //-           p.mb-0 La eficacia apunta directamente a los resultados, sin importar cómo se alcanzaron.
+    //-         imagen
+    //-           img(src='@/assets/curso/tema2/img09.jpg' alt="Imagen decorativa")
+    //-       div(numero="3" titulo="Indicadores de productividad") 
+    //-         p Combinan elementos de eficiencia y eficacia, al medir la cantidad de productos o servicios generados en relación con los recursos utilizados.
+    //-         .tarjeta.tarjeta--blanca.p-4.mb-2
+    //-           p Por ejemplo, la cantidad de unidades producidas en una planta, con relación a las horas-hombre.
+    //-           p.mb-0 Son muy útiles para evaluar el rendimiento de áreas operativas. 
+    //-         imagen
+    //-           img(src='@/assets/curso/tema2/img10.jpg' alt="Imagen decorativa")
+    //-       div(numero="4" titulo="Indicadores de calidad") 
+    //-         p Se centran en la satisfacción del cliente y en el cumplimiento de estándares establecidos. 
+    //-         .tarjeta.tarjeta--blanca.p-4.mb-2
+    //-           p Un ejemplo de ello, podría ser la cantidad de productos fabricados, de los cuales alguna cierta cantidad presentaría defectos.
+    //-           p.mb-0 Evalúan aspectos como el número de errores, devoluciones o quejas y son fundamentales para garantizar procesos sostenibles y alineados con las expectativas del mercado.
+    //-         imagen
+    //-           img(src='@/assets/curso/tema2/img11.jpg' alt="Imagen decorativa")
             
-    .mb-4.d-flex(data-aos="fade-right")
-      .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: #E5E9FE; border-radius: 5px;")
-        img(src='@/assets/curso/temas/img01.svg' style="max-width: 45px; margin-left: -16px;")
-        h3.col.ps-3.mb-0 Aplicación en la evaluación del desempeño empresarial
+    //- .mb-4.d-flex(data-aos="fade-right")
+    //-   .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: #E5E9FE; border-radius: 5px;")
+    //-     img(src='@/assets/curso/temas/img01.svg' style="max-width: 45px; margin-left: -16px;")
+    //-     h3.col.ps-3.mb-0 Aplicación en la evaluación del desempeño empresarial
     
-    p La aplicación de los indicadores de gestión en la evaluación del desempeño empresarial, permite obtener una visión clara, objetiva y estructurada del funcionamiento interno de la organización. Estos indicadores actúan como herramientas de control y seguimiento, facilitando la identificación de avances, retrocesos o desviaciones frente a las metas establecidas. Al utilizarlos de manera sistemática, las empresas pueden medir no solo el cumplimiento de sus planes, sino también la efectividad de sus estrategias operativas y administrativas.
-    p.mb-5 En la práctica, los indicadores de eficiencia, eficacia, productividad y calidad, permiten hacer un diagnóstico del rendimiento de las diferentes áreas de la organización. Por ejemplo: 
+    //- p La aplicación de los indicadores de gestión en la evaluación del desempeño empresarial, permite obtener una visión clara, objetiva y estructurada del funcionamiento interno de la organización. Estos indicadores actúan como herramientas de control y seguimiento, facilitando la identificación de avances, retrocesos o desviaciones frente a las metas establecidas. Al utilizarlos de manera sistemática, las empresas pueden medir no solo el cumplimiento de sus planes, sino también la efectividad de sus estrategias operativas y administrativas.
+    //- p.mb-5 En la práctica, los indicadores de eficiencia, eficacia, productividad y calidad, permiten hacer un diagnóstico del rendimiento de las diferentes áreas de la organización. Por ejemplo: 
 
-    .row.justify-content-center.mb-5
-      .col-lg-6.mb-lg-0.mb-4
-        .tarjeta-avatar-b.h-100
-          .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema2/img12.svg' alt="Imagen decorativa")
-          .tarjeta.BG01
-            .p-4
-              h4 Área de producción
-              p.mb-0 Se pueden analizar tiempos de ciclo, niveles de desperdicio o unidades producidas por hora.
-      .col-lg-6.mb-lg-0.mb-4
-        .tarjeta-avatar-b.h-100
-          .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema2/img13.svg' alt="Imagen decorativa")
-          .tarjeta.BG01
-            .p-4
-              h4 Área comercial
-              p.mb-0 Se pueden observar tasas de conversión, cumplimiento de metas de ventas o niveles de satisfacción del cliente. 
+    //- .row.justify-content-center.mb-5
+    //-   .col-lg-6.mb-lg-0.mb-4
+    //-     .tarjeta-avatar-b.h-100
+    //-       .tarjeta-avatar-b__img
+    //-         img(src='@/assets/curso/tema2/img12.svg' alt="Imagen decorativa")
+    //-       .tarjeta.BG01
+    //-         .p-4
+    //-           h4 Área de producción
+    //-           p.mb-0 Se pueden analizar tiempos de ciclo, niveles de desperdicio o unidades producidas por hora.
+    //-   .col-lg-6.mb-lg-0.mb-4
+    //-     .tarjeta-avatar-b.h-100
+    //-       .tarjeta-avatar-b__img
+    //-         img(src='@/assets/curso/tema2/img13.svg' alt="Imagen decorativa")
+    //-       .tarjeta.BG01
+    //-         .p-4
+    //-           h4 Área comercial
+    //-           p.mb-0 Se pueden observar tasas de conversión, cumplimiento de metas de ventas o niveles de satisfacción del cliente. 
 
-    p Esta aplicación sectorizada, permite detectar puntos críticos y establecer acciones correctivas o de mejora específicas.
-    p.mb-5 Adicionalmente, los indicadores: 
+    //- p Esta aplicación sectorizada, permite detectar puntos críticos y establecer acciones correctivas o de mejora específicas.
+    //- p.mb-5 Adicionalmente, los indicadores: 
 
-    .row.justify-content-center.mb-5
-      .col-lg-10
-        .BG02.px-lg-5.px-4.py-4
-          .row.justify-content-center.align-items-center
-            .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
-              ul.lista-ul--color
-                li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-check.tcp
-                  | Permiten establecer comparaciones entre periodos, sedes, equipos o incluso con referentes del sector, lo que enriquece el análisis del desempeño. 
-                li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-check.tcp
-                  | Esta visión comparativa facilita la toma de decisiones estratégicas, como reasignación de recursos, cambios en procesos, ajustes en el modelo de negocio o rediseño de objetivos. 
-                li(style="margin-bottom: 2px" data-aos="fade-right")
-                  i.fas.fa-check.tcp
-                  | De esta manera, los indicadores se convierten en una guía para mejorar la competitividad y sostenibilidad de la empresa.
-            .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-              img(src='@/assets/curso/tema2/img14.svg' alt="Imagen decorativa")
+    //- .row.justify-content-center.mb-5
+    //-   .col-lg-10
+    //-     .BG02.px-lg-5.px-4.py-4
+    //-       .row.justify-content-center.align-items-center
+    //-         .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
+    //-           ul.lista-ul--color
+    //-             li(style="margin-bottom: 2px" data-aos="fade-right")
+    //-               i.fas.fa-check.tcp
+    //-               | Permiten establecer comparaciones entre periodos, sedes, equipos o incluso con referentes del sector, lo que enriquece el análisis del desempeño. 
+    //-             li(style="margin-bottom: 2px" data-aos="fade-right")
+    //-               i.fas.fa-check.tcp
+    //-               | Esta visión comparativa facilita la toma de decisiones estratégicas, como reasignación de recursos, cambios en procesos, ajustes en el modelo de negocio o rediseño de objetivos. 
+    //-             li(style="margin-bottom: 2px" data-aos="fade-right")
+    //-               i.fas.fa-check.tcp
+    //-               | De esta manera, los indicadores se convierten en una guía para mejorar la competitividad y sostenibilidad de la empresa.
+    //-         .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+    //-           img(src='@/assets/curso/tema2/img14.svg' alt="Imagen decorativa")
 
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-7.order-lg-1.order-2.mb-4(data-aos="fade-right")
-        p Otro beneficio importante de su aplicación, es que fomentan la cultura de la medición y la gestión basada en resultados. Cuando los colaboradores conocen los indicadores con los que serán evaluados y comprenden cómo se calculan, es más fácil alinear los esfuerzos individuales y colectivos con los objetivos de la organización. Esto también fortalece la transparencia y la rendición de cuentas dentro del ambiente laboral.
-        p.mb-0 Igualmente, la aplicación de estos indicadores, es fundamental para dirigir la organización con base en información real y actualizada. Más allá de ser simples métricas, estos indicadores permiten tomar decisiones oportunas, impulsar mejoras continuas y garantizar que los recursos se utilicen de manera eficiente para alcanzar los resultados esperados. Son, en esencia, el puente entre la planeación estratégica y la ejecución operativa.
-      .col-lg-5.col-10.order-lg-2.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema2/img15.png' alt="Imagen decorativa")
-      .col-lg-10.order-3
-        .cajon.color-secundario.p-4
-          p.mb-0 Una vez analizado el papel de los indicadores de gestión en el control operativo y la evaluación del desempeño interno, es fundamental incorporar los indicadores financieros para obtener una visión más amplia y objetiva del estado económico de la organización.
+    //- .row.justify-content-center.align-items-center.mb-4
+    //-   .col-lg-7.order-lg-1.order-2.mb-4(data-aos="fade-right")
+    //-     p Otro beneficio importante de su aplicación, es que fomentan la cultura de la medición y la gestión basada en resultados. Cuando los colaboradores conocen los indicadores con los que serán evaluados y comprenden cómo se calculan, es más fácil alinear los esfuerzos individuales y colectivos con los objetivos de la organización. Esto también fortalece la transparencia y la rendición de cuentas dentro del ambiente laboral.
+    //-     p.mb-0 Igualmente, la aplicación de estos indicadores, es fundamental para dirigir la organización con base en información real y actualizada. Más allá de ser simples métricas, estos indicadores permiten tomar decisiones oportunas, impulsar mejoras continuas y garantizar que los recursos se utilicen de manera eficiente para alcanzar los resultados esperados. Son, en esencia, el puente entre la planeación estratégica y la ejecución operativa.
+    //-   .col-lg-5.col-10.order-lg-2.mb-4(data-aos="fade-left")
+    //-     img(src='@/assets/curso/tema2/img15.png' alt="Imagen decorativa")
+    //-   .col-lg-10.order-3
+    //-     .cajon.color-secundario.p-4
+    //-       p.mb-0 Una vez analizado el papel de los indicadores de gestión en el control operativo y la evaluación del desempeño interno, es fundamental incorporar los indicadores financieros para obtener una visión más amplia y objetiva del estado económico de la organización.
     
-    separador
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2 Indicadores financieros
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.1 Indicadores financieros
 
     figure.mb-5
       img(src='@/assets/curso/tema2/img16.png' alt="Imagen decorativa")
@@ -206,25 +206,25 @@
         .tarjeta-numerada.color-primario.p-5.h-100
           .tarjeta-numerada__numero
             .h2 1
-          p.text-center Indicadores de liquidez
+          h4.text-center Indicadores de liquidez
           p.text-center.mb-0 Miden la capacidad de la empresa para cumplir sus obligaciones de corto plazo.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="flip-right")
         .tarjeta-numerada.color-acento-contenido.p-5.h-100
           .tarjeta-numerada__numero
             .h2 2
-          p.text-center Indicadores de rentabilidad
+          h4.text-center Indicadores de rentabilidad
           p.text-center.mb-0 Evalúan la eficiencia en la generación de utilidades.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="flip-left")
         .tarjeta-numerada.color-secundario.p-5.h-100
           .tarjeta-numerada__numero
             .h2 3
-          p.text-center Indicadores de endeudamiento
+          h4.text-center Indicadores de endeudamiento
           p.text-center.mb-0 Analizan el nivel de apalancamiento financiero.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta-numerada.color-terciario.p-5.h-100
           .tarjeta-numerada__numero
             .h2 4
-          p.text-center Indicadores de actividad
+          h4.text-center Indicadores de actividad
           p.text-center.mb-0 Permiten conocer qué tan eficientemente se utilizan los activos para generar ingresos.
 
     p Esta clasificación facilita una lectura integral del estado financiero y operativo de la organización.
@@ -331,48 +331,16 @@
           br
           | El análisis comparativo complementa la interpretación, ya que permite evaluar los resultados actuales frente a distintos referentes. Al respecto, se tienen en cuenta los siguientes enfoques: 
 
-    .row.justify-content-center.mb-5(data-aos="fade-right")
-      .col-lg-10.position-relative
-        .avatar
-          figure
-            img(src="@/assets/curso/tema2/img27.svg", alt="Imagen decorativa").img230
-        .crd.crd--avatarHorizontal.crd--first.py-4
-          .row.align-items-center
-            .col-auto
+    .row.justify-content-center(data-aos="flip-up")
+      .col-lg-10.col-12
+        .cajon.cajon--C02.p-4
+          .row.justify-content-center.al
+            .col-auto.order-lg-1.order-1.mb-lg-0.mb-3
               figure
-                img(src="@/assets/curso/tema2/img24.svg", alt="Imagen decorativa").img100
-            .col
-              .h4 Comparación interanual
-              p.mb-0 Uno de los enfoques más comunes es la comparación interanual, que permite observar tendencias, identificar variaciones relevantes y evaluar la evolución financiera de la empresa en el tiempo. 
-        .crd.crd--avatarHorizontal.BGB05.py-4
-          .row.align-items-center
-            .col-auto
-              figure
-                img(src="@/assets/curso/tema2/img25.svg", alt="Imagen decorativa").img100
-            .col
-              .h4 #[em Benchmarking]
-              p.mb-0 También se puede realizar un #[em benchmarking], comparando los indicadores con los de empresas similares del mismo sector, lo que permite establecer parámetros de desempeño competitivo.
-        .crd.crd--avatarHorizontal.crd--last.py-4
-          .row.align-items-center
-            .col-auto
-              figure
-                img(src="@/assets/curso/tema2/img26.svg", alt="Imagen decorativa").img100
-            .col
-              .h4 Metas presupuestadas o proyecciones financieras
-              p.mb-0 Este es otro tipo de comparación útil realizado, ya que este análisis permite evaluar si la empresa está cumpliendo con sus objetivos, si existen desviaciones y cuáles son sus posibles causas.
-
-    p En este contexto, la interpretación de resultados no solo sirve para comprender el pasado y el presente financiero, sino también para proyectar escenarios futuros y ajustar el rumbo estratégico.
-    p.mb-5 Interpretar los resultados y realizar un análisis comparativo no es un ejercicio estático, sino una herramienta dinámica que facilita la gestión financiera. Más allá de calcular ratios, se trata de transformar los datos en información útil y significativa, que sirva de base para la toma de decisiones, el control de gestión y la mejora continua del desempeño organizacional.
-
-    .row.justify-content-center.mb-5
-      .col-lg-10
-        .tarjeta.BG05.px-lg-5.py-4
-          .row.justify-content-center
-            .col-lg-2.col-3.mb-lg-0.mb-4(data-aos="fade-right")
-              img(src='@/assets/curso/tema2/img28.svg' alt="Imagen decorativa")
-            .col-lg-10.col-9(data-aos="fade-left")
-              p.mb-0 Tanto los indicadores de gestión como los financieros, proporcionan información valiosa por separado; sin embargo, su verdadero poder analítico se alcanza al integrarlos en un enfoque de análisis integral, que permita identificar causas, efectos y relaciones entre los distintos aspectos del desempeño organizacional.
-
+                img(src='@/assets/curso/tema2/img28.svg', alt='Imagen decorativa')
+            .col-lg-8.col-12.mb-3.order-lg-2.order-2.mb-lg-0
+              p Tanto los indicadores de gestión como los financieros, proporcionan información valiosa por separado; sin embargo, su verdadero poder analítico se alcanza al integrarlos en un enfoque de análisis integral, que permita identificar causas, efectos y relaciones entre los distintos aspectos del desempeño organizacional.
+     
 </template>
 
 <script>

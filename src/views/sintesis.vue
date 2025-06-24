@@ -11,7 +11,7 @@
         figure
           img(src="@/assets/curso/sintesis.svg", alt="En la síntesis del componente formativo Evaluación y generación de informes financieros, se da a conocer cómo por medio de la evaluación financiera, se aplican indicadores de gestión y financieros; para luego realizar un análisis de la situación presentada y finalizar con la elaboración del informe financiero que se realiza, de acuerdo al tipo de público al que se desea llegar.")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
+        a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/bullets/icono-pdf.svg")
           .anexo__texto

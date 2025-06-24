@@ -44,13 +44,8 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Indicadores de gestión',
-            hash: 't_2_1',
-          },
-          {
-            numero: '2.2',
             titulo: 'Indicadores financieros',
-            hash: 't_2_2',
+            hash: 't_2_1',
           },
         ],
       },
@@ -65,6 +60,21 @@ export default {
         numero: '4',
         titulo: 'Elaboración de informes financieros',
         desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo:
+          'Uso de herramientas tecnológicas para la visualización y presentación de datos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo:
+              'Buenas prácticas en la comunicación de resultados financieros',
+            hash: 't_5_1',
+          },
+        ],
       },
     ],
     subMenu: [

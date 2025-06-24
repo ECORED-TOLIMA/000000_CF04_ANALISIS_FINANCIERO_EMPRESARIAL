@@ -104,13 +104,14 @@
       .col-lg-10(data-aos="fade-right")
         .cajon.color-secundario.p-4
           p.mb-0 El análisis aislado de los indicadores, carece de sentido si no se integra en un marco de comparación y análisis cualitativo que explique las causas detrás de los números.
-
-    .row.justify-content-center.align-items-center.mb-5
+    
+    .row.fondo2-t2.justify-content-center.align-items-center.py-3.px-lg-5.px-4.ordenar_tarjeta.mb-4(data-aos="zoom-in")
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
         p La generación de informes financieros exige, por tanto, un enfoque integral que cruce los resultados financieros con los operativos. No basta con reportar que la rentabilidad ha disminuido; es necesario investigar si esa caída se debe a un aumento en los costos, a una reducción en las ventas o a ineficiencias operativas detectadas a través de los indicadores de gestión. En este sentido, García (2009), resalta que un buen informe debe incluir tanto análisis cuantitativo como cualitativo, utilizando herramientas como gráficos, tablas comparativas y comentarios explicativos que faciliten la interpretación de los resultados. La narrativa del informe debe ser clara, estructurada y orientada a facilitar la toma de decisiones estratégicas.
         p.mb-0 Un aspecto clave en la elaboración del informe financiero, es su adecuación a las políticas internas de la organización y a las normativas contables externas, como las Normas Internacionales de Información Financiera (NIIF). Coral & Gudiño (2014), sostienen que el cumplimiento de estos marcos normativos asegura la coherencia, transparencia y comparabilidad de la información financiera, lo cual es fundamental para la credibilidad de la empresa ante sus diferentes grupos de interés. Además, adaptar el lenguaje, el nivel de detalle y el formato del informe al tipo de público al que va dirigido —directivos, socios, entidades financieras o entes de control— maximiza su impacto y facilita su comprensión.
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img09.png' alt="Imagen decorativa")
+
 
 </template>
 
