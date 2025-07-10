@@ -104,7 +104,7 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 La toma de decisiones en las organizaciones, implica elegir entre diferentes alternativas, con el fin de optimizar recursos, aumentar la rentabilidad o mejorar la eficiencia. Para lograrlo, es necesario contar con información confiable que revele tanto los resultados financieros como el comportamiento operativo. Por ejemplo, una decisión de inversión en maquinaria no solo debe basarse en la disponibilidad de recursos (liquidez), sino también en indicadores de productividad, tiempo de ciclo o capacidad instalada.
 
-    p.mb-5 Los indicadores también cumplen un rol estratégico en la planeación. A través del análisis histórico y comparativo, la empresa puede tener en cuentas las siguientes acciones: 
+    p.mb-5 Los indicadores también cumplen un rol estratégico en la planeación. A través del análisis histórico y comparativo, la empresa puede tener en cuenta las siguientes acciones: 
 
     .row.justify-content-center.mb-5
       .col-lg-6.mb-4

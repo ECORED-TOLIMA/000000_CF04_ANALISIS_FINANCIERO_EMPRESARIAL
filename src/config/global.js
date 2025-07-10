@@ -248,7 +248,12 @@ export default {
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador <em>Fullstack</em>',
+          cargo: 'Desarrollador <em>Full stack</em>',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Francisco José Vásquez Suárez',
+          cargo: 'Desarrollador <em>Full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {

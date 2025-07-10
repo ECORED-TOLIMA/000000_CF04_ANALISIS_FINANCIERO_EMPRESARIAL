@@ -88,7 +88,7 @@
           .h4 Anexos
           p.mb-0 Contienen los soportes técnicos del análisis: tablas de cálculo, fórmulas utilizadas, notas aclaratorias, y cualquier información adicional que respalde las conclusiones. Esta sección garantiza la transparencia del informe y facilita futuras verificaciones o auditorías. 
 
-    p.mb-5 Tener una estructura definida es solo el primer paso; es necesario cuidar la redacción y la presentación de los resultados, de manera que el contenido sea comprensible, persuasivo y adaptado a cada audiencia
+    p.mb-5 Tener una estructura definida es solo el primer paso; es necesario cuidar la redacción y la presentación de los resultados, de manera que el contenido sea comprensible, persuasivo y adaptado a cada audiencia.
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: #E5E9FE; border-radius: 5px;")

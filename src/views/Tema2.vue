@@ -327,10 +327,7 @@
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 Una parte esencial de esta interpretación es contextualizar cada indicador. Por ejemplo, una razón de endeudamiento del 70 % puede ser razonable en una industria intensiva en capital, pero preocupante en una empresa de servicios. Por ello, los valores obtenidos deben analizarse en función del sector económico, el tamaño de la empresa, el comportamiento histórico y las expectativas del mercado. Además, es importante considerar las políticas internas de la organización y los objetivos definidos en su planeación financiera.
-          br
-          br
-          | El análisis comparativo complementa la interpretación, ya que permite evaluar los resultados actuales frente a distintos referentes. Al respecto, se tienen en cuenta los siguientes enfoques: 
-
+        
     .row.justify-content-center(data-aos="flip-up")
       .col-lg-10.col-12
         .cajon.cajon--C02.p-4
