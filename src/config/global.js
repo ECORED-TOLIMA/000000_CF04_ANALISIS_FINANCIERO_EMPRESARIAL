@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Evaluación y generación de informes financieros',
+    Name: 'Evaluación y generación de informes financieros',
     descripcionCurso:
       'Este componente desarrolla competencias para analizar, estructurar y presentar informes financieros, integrando indicadores de gestión. El aprendiz aprenderá a interpretar resultados, generar reportes técnicos y comunicar hallazgos según normativas y públicos específicos, fortaleciendo la toma de decisiones estratégicas dentro de la organización.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),

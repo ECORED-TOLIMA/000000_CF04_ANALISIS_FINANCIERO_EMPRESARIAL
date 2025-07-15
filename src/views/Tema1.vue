@@ -99,7 +99,7 @@
       .col-lg-7.mb-4(data-aos="fade-left")
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
-            p Según García (2009), la correcta selección y seguimiento de los KPI proporciona a la empresa una ventaja competitiva al permitir una gestión basada en datos y no en percepciones subjetivas. Además, facilita la rendición de cuentas y promueve una cultura organizacional orientada al logro.
+            p Según García (2009), la correcta selección y seguimiento de los KPI proporciona a la empresa una ventaja competitiva al permitir una gestión basada en datos y no en percepciones subjetivas. Además, facilita la rendición de cuentas y promueve una cultura organizacional orientada al logro. 
             p.mb-0 En paralelo, los indicadores financieros ofrecen información crucial sobre la situación económica de la empresa. A partir del análisis del balance general, el estado de resultados y el flujo de efectivo, es posible calcular indicadores de liquidez, rentabilidad, endeudamiento y actividad. Estos indicadores deben ser interpretados en contexto, comparándolos con los resultados históricos, los presupuestos establecidos y los referentes del sector. De esta manera, se puede evaluar si la empresa es capaz de cumplir sus obligaciones, generar utilidades sostenibles y utilizar eficientemente sus activos. 
       .col-lg-10(data-aos="fade-right")
         .cajon.color-secundario.p-4
