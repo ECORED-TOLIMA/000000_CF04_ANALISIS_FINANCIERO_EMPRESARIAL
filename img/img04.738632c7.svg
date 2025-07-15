@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="Grupo_1072266" data-name="Grupo 1072266" transform="translate(-269 -958)">
+    <circle id="Elipse_5614" data-name="Elipse 5614" cx="35" cy="35" r="35" transform="translate(269 958)" fill="#fff"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(284.941 972.327)">
+      <path id="Trazado_911910" data-name="Trazado 911910" d="M31.707,2.25H30.352V4.96a3.614,3.614,0,0,1-3.614,3.614H11.38A3.614,3.614,0,0,1,7.767,4.96V2.25H6.412A3.18,3.18,0,0,0,3.25,5.412V36.127a3.18,3.18,0,0,0,3.162,3.162H31.707a3.18,3.18,0,0,0,3.162-3.162V5.412A3.18,3.18,0,0,0,31.707,2.25ZM25.473,20.318,18.7,27.545a1.409,1.409,0,0,1-.994.416,1.319,1.319,0,0,1-.9-.343L12.736,24a1.319,1.319,0,0,1-.108-1.9,1.373,1.373,0,0,1,1.915-.253L17.614,24.6l5.872-6.233a1.362,1.362,0,0,1,1.987,1.861Z" transform="translate(0 0.807)" fill="#474d41"/>
+      <rect id="Rectángulo_410465" data-name="Rectángulo 410465" width="18.971" height="6.324" rx="1.25" transform="translate(9.574 1.25)" fill="#474d41"/>
+    </g>
+  </g>
+</svg>
